@@ -1,0 +1,38 @@
+# ---- Keil uVision 构建产物 ----
+Objects/
+Listings/
+*.obj
+*.lst
+*.m51
+*.lnp
+*.plg
+*.hex
+*.bin
+*.axf
+*.build_log.htm
+*.htm
+*.dep
+*.crf
+*.o
+*.d
+*.axf.*
+*.sct
+*.map
+*.scr
+*.uvgui.*
+*.bak
+*.uvopt.bak
+*.uvproj.bak
+
+# ---- Keil 用户窗口状态（每个使用者不同，勿提交） ----
+*.uvgui.Administrator
+*.uvgui.mrbil
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
+*~
+*.log
